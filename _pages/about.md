@@ -16,4 +16,4 @@ My primary research area is distributed control and estimation. I focus on devel
 
 News
 ======
-*_July 24:_*. Our paper got accepted in IEEE CDC 2024.
+**_July 24:_**. Our paper got accepted in IEEE CDC 2024.
