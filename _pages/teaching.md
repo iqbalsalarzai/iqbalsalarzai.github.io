@@ -34,30 +34,33 @@ author_profile: true
 
 **_PhD Student Supervision_**
 
-   **Hayat Ullah:** 'Separating Composite Signals in the Domain of Compressed Sensing', IIUI, 2021.
+**Abdul Basit:** 'FAULT DETECTION AND MITIGATION STRATEGIES FOR THE
+MICROGRID PERFORMANCE ENHANCEMENT', IIUI, 2023- present (Co-Supervisor)
+
+   **Hayat Ullah:** 'Separating Composite Signals in the Domain of Compressed Sensing', IIUI, 2017-2021. (Co-Supervisor)
 
 
 **_Masters Student Thesis Supervision_**
 
 
-**Tuomas, Jona, Jere (Project Work Course):** 'Decentralized control of illumination balancing', 2024.
+**Tuomas, Jona, Jere (Project Work Course):** 'Decentralized control of illumination balancing', 2024. (Main-Supervisor)
 
-**Shahab U Din:** 'Designing of a Fault Tolerant DC-DC Converter', IIUI, 2022.
+**Shahab U Din:** 'Designing of a Fault Tolerant DC-DC Converter', IIUI, 2022. (Co-Supervisor)
     
-**Muhammad Noman:** 'Control of Grid Tie Voltage Source Multilevel Inverter', IIUI, 2020.
+**Muhammad Noman:** 'Control of Grid Tie Voltage Source Multilevel Inverter', IIUI, 2020.(Co-Supervisor)
     
-  **Muhammad Tariq Fareed:** 'Analysis and Design of Controller for the Signal Input Multi Output DC-DC Converters', IIUI, 2021.
+  **Muhammad Tariq Fareed:** 'Analysis and Design of Controller for the Signal Input Multi Output DC-DC Converters', IIUI, 2021. (Co-Supervisor)
    
- **Tariq Dilbar:** 'An Optimized Control of Modular Multi-Level Convertor (MMC) Voltage for HVDC Transmission', IIUI, 2021.
+ **Tariq Dilbar:** 'An Optimized Control of Modular Multi-Level Convertor (MMC) Voltage for HVDC Transmission', IIUI, 2021. (Co-Supervisor)
     
-**Ali Raza:** 'Robustness of Hierarchical Schemes for Multi-agent Systems', IIUI, 2019.
+**Ali Raza:** 'Robustness of Hierarchical Schemes for Multi-agent Systems', IIUI, 2019. (Main-Supervisor)
 
-  **Asif Wazir:** 'Controllability of Complex Network', IIUI, 2019.
+  **Asif Wazir:** 'Controllability of Complex Network', IIUI, 2019. (Main-Supervisor)
 
 
 **_Bachelor Student Thesis Supervision_**
 
-   **Tomas Laitinen:** 'Privacy-Preserving Machine Learning Based on Homomorphic Encryption', Tampere University, 2022.
+   **Tomas Laitinen:** 'Privacy-Preserving Machine Learning Based on Homomorphic Encryption', Tampere University, 2022. (Co-Supervisor)
    
-   **Niklas Savijoki:** 'Attack Detection in Autonomous Vehicles Network Using Extreme Gradient Boosting', Tampere University, 2022.
+   **Niklas Savijoki:** 'Attack Detection in Autonomous Vehicles Network Using Extreme Gradient Boosting', Tampere University, 2022. (Co-Supervisor)
 
