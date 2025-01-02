@@ -52,7 +52,7 @@ author_profile: true
     
 **Ali Raza:** 'Robustness of Hierarchical Schemes for Multi-agent Systems', IIUI, 2019.
 
-    **Asif Wazir:** 'Controllability of Complex Network', IIUI, 2019.
+  **Asif Wazir:** 'Controllability of Complex Network', IIUI, 2019.
 
 
 **_Bachelor Student Thesis Supervision_**
