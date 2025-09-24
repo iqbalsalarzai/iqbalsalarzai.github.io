@@ -16,7 +16,8 @@ My primary research area is distributed control and estimation. I focus on devel
 
 News
 ======
-**_July 24:_** Our paper got accepted in IEEE CDC 2024.    
-**_May 20:_** Our paper got accepted in EUSIPCO 2025.
-**_September 21:_** Our paper on 'Communication-Efficient Distributed Kalman Filtering using ADMM' got accepted in IEEE Transactions on Automatic Control.
+- **July 24:** Our paper got accepted in IEEE CDC 2024.
+- **May 20:** Our paper got accepted in EUSIPCO 2025.
+- **September 21:** Our paper on 'Communication-Efficient Distributed Kalman Filtering using ADMM' got accepted in IEEE TAC.
+
 
