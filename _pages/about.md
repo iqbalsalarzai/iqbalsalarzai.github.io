@@ -16,8 +16,11 @@ My primary research area is distributed control and estimation. I focus on devel
 
 News
 ======
-- **July 24:** Our paper got accepted in IEEE CDC 2024.
-- **May 20:** Our paper got accepted in EUSIPCO 2025.
+- **May 11:** Our paper on 'Integrating Lagrangian Neural Networks into the Dyna Framework for Reinforcement Learning' got accepted in EUSIPCO 2026.
 - **September 21:** Our paper on 'Communication-Efficient Distributed Kalman Filtering using ADMM' got accepted in IEEE TAC.
+- - **May 20:** Our paper got accepted in EUSIPCO 2025.
+- **July 24:** Our paper got accepted in IEEE CDC 2024.
+
+
 
 
